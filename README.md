@@ -1,4 +1,4 @@
-# ⚡ Smart EV Charging Infrastructure for India 🇮🇳
+# ⚡ Smart EV Charging Infrastructure for India
 ### Dynamically Optimizing Load to Improve Charging Efficiency  
 > **Aligned with SDG 7 (Affordable & Clean Energy) & SDG 11 (Sustainable Cities & Communities)**
 
